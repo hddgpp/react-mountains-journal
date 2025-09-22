@@ -13,6 +13,12 @@ Built as my **first React project** (week 1 of React learning journey).
 
 ---
 
+## Photo
+
+<img width="1892" height="851" alt="image" src="https://github.com/user-attachments/assets/4fedf1c0-f2a7-4d8b-82fa-f387ed715a54" />
+
+---
+
 ## 📂 Project Structure
 my-app/
 ├─ component/
