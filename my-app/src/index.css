@@ -8,7 +8,7 @@ body {
     font-family: "Roboto Condensed", sans-serif;
 }
 header {
-  background-color: #EB4A24;
+  background-color: #2F4F4F;
   padding: 10px ;
   align-items: center;
   justify-content: center;
@@ -87,12 +87,13 @@ header {
 }
 
 .location-map {
-  color: #0073e6;
+  color: #4682B4;
   font-size: 12px;
   margin-left: auto;
   text-decoration: none;
 }
 .location-map:hover {
+    color: #2F4F4F;
   text-decoration: underline;
 }
 
@@ -118,6 +119,35 @@ header {
   color: #555;
 }
 
+.footer {
+  background: #2f4f4f; /* dark greenish vibe */
+  color: white;
+  padding: 1rem;
+  margin-top: 50px;
+  text-align: center;
+}
+.footer a {
+  color: #80c0ff;
+  text-decoration: none;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .card {
@@ -128,8 +158,5 @@ header {
   .card-image img {
     max-width: 100%;
   }
-
-  .location-map {
-    margin-left: 0;          /* Removes auto push when stacked */
   }
-}
+
