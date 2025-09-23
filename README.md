@@ -1,4 +1,4 @@
-# 🌍 Mountain Explorer (React App)
+# ⛰️ Mountain Explorer (React App)
 
 A simple React project that displays famous mountains around the world.  
 Built as my **first React project** (week 1 of React learning journey).  
